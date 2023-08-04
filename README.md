@@ -7,6 +7,7 @@ Files are also inter-linked, such that changes you make to the parameters of Pay
 
 Files specific to versions 1 and 2 of Neuropixels are in NP1 and NP2 folders. Other parts are in the base folder and can be used (in some cases with a parameter change) for either version. 
 
+&nbsp;
 ### “Payload_NP1” or “Payload_NP2”
 This is the module that holds the probe(s). You will need one of these for each probe (or pair of probes) you use, and it is re-used across implantations. Print in Natural Rigid Resin 4000, including 4x M1 threaded inserts.
 
@@ -15,9 +16,66 @@ This is the module that holds the probe(s). You will need one of these for each 
 <img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/6fb54f80-a0e4-4599-84a2-07c32f734a5a">
 </p>
 
+&nbsp;
+### “PayloadHolder”
+This is a holder that can be attached to the Payload Module for construction, painting, implants, storage, carrying around etc. There are two versions which can be produced from the save file by adjusting the binary “REDUCEDHOLDERVERSION” parameter. 
+* If REDUCEDHOLDERVERSION is "0", you will see the version used for payload construction (below, left). You only need one of these. Print in PA12, including 2x M3 insert.
+* If REDUCEDHOLDERVERSION is "1", you will see the reduced version used general manipulation, storage, insertion etc. You need as many of these as would be useful. Print in PA12, including 2x M3 insert.
+NOTE: to change the part for NP1 and NP2 versions, simply change the “SlotLength” parameter as instructed in the comments (14/9 mm for NP1/NP2). We have provided .stp files for all versions.
 
+<p align="center">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/30cd3cbf-7e3a-48ae-88b0-b0d35fdda372">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/21c32d8c-e718-4e90-be72-18a383aceed5">
+</p>
 
+&nbsp;
+### “PayloadCap_NP1” or “PayloadCap_NP2”
+This is the lid for Payload Module, to be attached with glue after the probe is cemented in position. You will need one per probe. Print in PA12.
 
+<p align="center">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/6b7b7dd6-016b-45d3-a615-0ab9daa0d3a8">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/f556ac69-d394-4086-8e4a-6ac93f295e79">
+</p>
+
+&nbsp;
+### “Docking_NP1” or “Docking _NP2”
+This is the module that is cemented to the skull after being screwed to the Payload Module. A new Docking Module is required for each insertion. Print in Natural Rigid Resin 4000.
+
+<p align="center">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/b3e99cb4-e781-4ec0-a874-747afeae4c21">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/002a76b7-ee2d-4e21-8202-b7aa971d87d7">
+</p>
+
+&nbsp;
+### “DockingHolder_NP1” or “DockingHolder_NP2”
+This holds the Docking Module in place when using the constructor to combine the two modules. You only need one of these. Print in Natural Rigid Resin 4000, including 4x M3 insert.
+    
+<p align="center">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/e3dc120d-8f3c-4a25-8b4c-6c2e05d19a3d">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/854c364f-0fab-4801-8d83-6c0cbb5b683e">
+</p>
+
+&nbsp;
+### “ConstructorHead”
+This forms one end of the constructor setup (used to “safely” combine the docking and payload modules). You will only need one of these. Print in Natural Rigid Resin 4000. 
+<p align="center">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/ac061a60-7299-4786-aace-95b1e3edaea2">
+</p>
+
+&nbsp;
+### “ProbeSharpener” 
+This is a simple part that we use to hold the probe itself in order to sharpen them prior to construction. Note that it uses a screw to hold the probe: do not tighten it too much, or the probe base will break.
+
+&nbsp;
+### Additional screws and bolts:
+NOTE: Links are for reference but could be sourced elsewhere. The brass inserts can be easily inserted using a soldering iron and mild pressure. We typically do this in-house, but your 3D-printing company may also do this for you upon request.
+* [M1 Brass knurled inserts](https://www.ebay.co.uk/itm/124331900287): To be heat-inserted into the Payload.
+* [M3 Brass knurled inserts](https://uk.rs-online.com/web/p/threaded-inserts/2040620): To be heat-inserted into the PayloadHolder and DockingHolder.
+* [M1 Screws](https://www.accu.co.uk/cheese-head-screws/6426-SFE-M1-3-A2): To lock modules together (4 per module).
+* [M3 5mm screws](https://www.accu.co.uk/flanged-button-screws/8592-SSBF-M3-5-A2): For connecting Payload Module holder to Thor Labs posts (3 total) and also for securing the Docking Module in its holder (2-4 depending on your preference)
+* [M3 10mm screws](https://www.accu.co.uk/flanged-button-screws/8595-SSBF-M3-10-A2): For connecting Constructor Head to Thor Labs posts (3 total)
+* [M3 20mm screws](https://www.accu.co.uk/flanged-button-screws/8600-SSBF-M3-20-A2): For connecting Constructor Head to Thor Labs posts (3 total)
+* [Thor labs posts](https://www.thorlabs.com/thorproduct.cfm?partnumber=MS3R/M): At least 3 for the constructor, potentially more to hold the probes etc.
 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
