@@ -95,7 +95,7 @@ This section describes how to put all the parts together. We recommend practicin
   2. Carefully bring the probe (usually holding the flex with two fingers and pushing the probe down with the index finger) onto the payload module. Make sure you push it to the end of the payload module. Check for probe alignment, and readjust the angle manually. Add more epoxy to fix the probe to the module – you can cover the base and parts of the electronics, but it’s usually good to avoid covering the GND and REF electrodes since they can be used to check for good soldering (or to solder GND and REF here directly). While applying epoxy, you can keep the probe in position using the tip of forceps.
   3. Short the GND and the REF by soldering a silver wire in between (this can also be done beforehand). This step and the overall grounding are currently being discussed and improved (see troubleshooting).
   4. Fold the flex and insert it in the slot on the inside of the lid. Then push the lid down and glue it by putting super glue on both sides of contact with the payload module. If you’ve soldered a silver wire for your ground, make sure it sticks out. You can then fold the flex and slide the connectors end in the slot on the outside of the lid.
-  5. You can now use the payload holder to sharpen your probe (see https://github.com/cortex-lab/neuropixels/wiki/Sharpening for more information).  
+  5. You can now use the payload holder to sharpen your probe.
   
 Stage 2.3 (left) and 2.4 (right) 
  
