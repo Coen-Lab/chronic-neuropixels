@@ -77,7 +77,8 @@ NOTE: Links are for reference but could be sourced elsewhere. The brass inserts 
 * [M3 20mm screws](https://www.accu.co.uk/flanged-button-screws/8600-SSBF-M3-20-A2): For connecting Constructor Head to Thor Labs posts (3 total)
 * [Thor labs posts](https://www.thorlabs.com/thorproduct.cfm?partnumber=MS3R/M): At least 3 for the constructor, potentially more to hold the probes etc.
 
-
+&nbsp;
+&nbsp;
 ## Assembly 
 This section describes how to put all the parts together. We recommend practicing on dummy probes (or even on probes that are already broken!) to get used to it, since specific steps can be finicky.  
 ### MATERIAL: 
@@ -90,21 +91,28 @@ This section describes how to put all the parts together. We recommend practicin
 ### 1. CHECKING THE PARTS: 
   1. Before fixing the probe, perform full assembly procedure without the probe to ensure the parts fit together.
 
+&nbsp;
 ### 2. FIXING A PROBE TO THE PAYLOAD MODULE 
   1. Using Blu Tack, position payload module and coat it with a thin layer of epoxy (so that the probe will stick to it).
   2. Carefully bring the probe (usually holding the flex with two fingers and pushing the probe down with the index finger) onto the payload module. Make sure you push it to the end of the payload module. Check for probe alignment, and readjust the angle manually. Add more epoxy to fix the probe to the module – you can cover the base and parts of the electronics, but it’s usually good to avoid covering the GND and REF electrodes since they can be used to check for good soldering (or to solder GND and REF here directly). While applying epoxy, you can keep the probe in position using the tip of forceps.
   3. Short the GND and the REF by soldering a silver wire in between (this can also be done beforehand). This step and the overall grounding are currently being discussed and improved (see troubleshooting).
   4. Fold the flex and insert it in the slot on the inside of the lid. Then push the lid down and glue it by putting super glue on both sides of contact with the payload module. If you’ve soldered a silver wire for your ground, make sure it sticks out. You can then fold the flex and slide the connectors end in the slot on the outside of the lid.
   5. You can now use the payload holder to sharpen your probe.
-  
+
+<p align="center">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/c26eef7b-60ea-488e-811c-8f8cd00a1ea7">
+<p align="center">
 Stage 2.3 (left) and 2.4 (right) 
+</p>  
  
  
+&nbsp;
 ### 3. FIXING A SECOND PROBE TO THE PAYLOAD MODULE 
 These steps are only if you want a second probe. If you don’t, you can close the empty side with a lid and make sure you close all gaps with epoxy or kwikcast. If you do, please follow these steps: 
   1. You must first sharpen the second probe. To do so, you can use the temporary probe holder (we have been using “ProbeSharpener.stl” to hold the probe during this process, but this hasn’t been heavily optimized).
   2. Then, you can assemble the second probe by repeating the same steps as before, while being extra careful not to touch the probe that is already attached to the docking module. 
  
+&nbsp;
 ### 4. ASSEMBLING THE PAYLOAD AND THE DOCKING MODULES 
   1. Position the docking module in the docking module holder.
   2. Position the payload module (with the probes) in the payload module holder. This step is easier if the payload module holder is at that stage independent of the docking module holder. The probe is secured in the holder, and then the holder is screwed in. Check the alignment of the probe.
@@ -112,11 +120,16 @@ These steps are only if you want a second probe. If you don’t, you can close t
 4.	Unscrew the docking module from the docking module holder. You can now slide it away from the probe.  
 5.	Unscrew the now fully assembled implant from the payload module holder.  
  
-  
+<p align="center">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/b3e7ca5f-e2f5-4746-be48-d1cdc80c2663">
+<p align="center">
 Stage 4.2 (left) and 4.5 (right)  
+</p>  
 
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+&nbsp;
+&nbsp;
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
