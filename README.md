@@ -100,11 +100,10 @@ This section describes how to put all the parts together. We recommend practicin
   5. You can now use the payload holder to sharpen your probe.
 
 <p align="center">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/c26eef7b-60ea-488e-811c-8f8cd00a1ea7">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/6eaa825d-e772-422b-aa68-67fa0e6fabe2">
 <p align="center">
 Stage 2.3 (left) and 2.4 (right) 
 </p>  
- 
  
 &nbsp;
 ### 3. FIXING A SECOND PROBE TO THE PAYLOAD MODULE 
@@ -121,7 +120,7 @@ These steps are only if you want a second probe. If you don’t, you can close t
 5.	Unscrew the now fully assembled implant from the payload module holder.  
  
 <p align="center">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/b3e7ca5f-e2f5-4746-be48-d1cdc80c2663">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/119cb38c-35c5-43d6-83c8-ae715129d858">
 <p align="center">
 Stage 4.2 (left) and 4.5 (right)  
 </p>  
