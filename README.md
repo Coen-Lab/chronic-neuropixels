@@ -12,8 +12,8 @@ Files specific to versions 1 and 2 of Neuropixels are in NP1 and NP2 folders. Ot
 This is the module that holds the probe(s). You will need one of these for each probe (or pair of probes) you use, and it is re-used across implantations. Print in Natural Rigid Resin 4000, including 4x M1 threaded inserts.
 
 <p align="center">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/dbcc2d88-6cc4-423e-9212-3a4559487b88">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/6fb54f80-a0e4-4599-84a2-07c32f734a5a">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/6d932aba-95ff-400f-87c5-b286c515460e">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/342aa9b6-97c1-4da7-822e-ae678719fe4f">
 </p>
 
 &nbsp;
