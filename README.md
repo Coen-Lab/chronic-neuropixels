@@ -24,8 +24,8 @@ This is a holder that can be attached to the Payload Module for construction, pa
 NOTE: to change the part for NP1 and NP2 versions, simply change the “SlotLength” parameter as instructed in the comments (14/9 mm for NP1/NP2). We have provided .stp files for all versions.
 
 <p align="center">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/30cd3cbf-7e3a-48ae-88b0-b0d35fdda372">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/21c32d8c-e718-4e90-be72-18a383aceed5">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/665314e6-c5af-4019-92a6-9f7827f77623">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/c11606f2-2a0e-4d34-819c-7b9b809868e1">
 </p>
 
 &nbsp;
@@ -33,8 +33,8 @@ NOTE: to change the part for NP1 and NP2 versions, simply change the “SlotLeng
 This is the lid for Payload Module, to be attached with glue after the probe is cemented in position. You will need one per probe. Print in PA12.
 
 <p align="center">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/6b7b7dd6-016b-45d3-a615-0ab9daa0d3a8">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/f556ac69-d394-4086-8e4a-6ac93f295e79">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/ff92b541-b34a-47be-a0cf-19f633d9ab2a">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/0e75abd9-8448-4eb8-9d17-81f2b80c7986">
 </p>
 
 &nbsp;
@@ -42,8 +42,8 @@ This is the lid for Payload Module, to be attached with glue after the probe is 
 This is the module that is cemented to the skull after being screwed to the Payload Module. A new Docking Module is required for each insertion. Print in Natural Rigid Resin 4000.
 
 <p align="center">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/b3e99cb4-e781-4ec0-a874-747afeae4c21">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/002a76b7-ee2d-4e21-8202-b7aa971d87d7">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/11d06e51-a7d2-4d17-af85-f0f744a4ca93">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/8f824646-ecec-4fe6-868f-6988759c262c">
 </p>
 
 &nbsp;
@@ -51,15 +51,15 @@ This is the module that is cemented to the skull after being screwed to the Payl
 This holds the Docking Module in place when using the constructor to combine the two modules. You only need one of these. Print in Natural Rigid Resin 4000, including 4x M3 insert.
     
 <p align="center">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/e3dc120d-8f3c-4a25-8b4c-6c2e05d19a3d">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/854c364f-0fab-4801-8d83-6c0cbb5b683e">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/5b422126-788e-4381-9a86-dd3819ef6751">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/a73924c3-5e27-4622-b062-03dc5bbc17fb">
 </p>
 
 &nbsp;
 ### “ConstructorHead”
 This forms one end of the constructor setup (used to “safely” combine the docking and payload modules). You will only need one of these. Print in Natural Rigid Resin 4000. 
 <p align="center">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/ac061a60-7299-4786-aace-95b1e3edaea2">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/d9750dce-31a2-4ef1-ad70-424c6572bcde">
 </p>
 
 &nbsp;
