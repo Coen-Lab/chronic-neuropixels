@@ -1,4 +1,6 @@
 # Apollo Implant Parts List and Instructions
+## NOTE
+The commercially available NP2.0 probes have a slightly different form-factor from the previous release. We are in the process of making the minor changes to the implant to fit these probes, which will be completed (and posted here) before these probes ship. There are two versions of the commercially available NP2.0 probes: those with a "metal cap" (also called a dovetail) and those without. The Apollo Implant will work with both versions, but to minimise the size and weight of chronic implants, we recommend getting the probes without the metal cap.
 ## Parts List
 In this repository are all the parts required to build the chronic implant (not including glue, dental cement, etc.).
 Files are adjustable using annotated parameter tables. Please watch “SupplementaryVideo_1.mp4” (found here) if you are unfamiliar with this process. You will also need Autodesk Inventor which is free for educational use. This allows you to, for example, change the angle of the docking module, spacing between probes, or thickness of the walls. However, be aware that parameters like “length of exposed probes” are estimates based on our own use and not exact. The default values are those we use in the lab for a typical insertion, although we change them as needed.
