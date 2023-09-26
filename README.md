@@ -74,8 +74,8 @@ NOTE: Links are for reference but could be sourced elsewhere. The brass inserts 
 * [M1 Brass knurled inserts](https://www.ebay.co.uk/itm/124331900287): To be heat-inserted into the Payload.
 * [M3 Brass knurled inserts](https://uk.rs-online.com/web/p/threaded-inserts/2040620): To be heat-inserted into the PayloadHolder and DockingHolder.
 * [M1 Screws](https://www.accu.co.uk/cheese-head-screws/6426-SFE-M1-3-A2): To lock modules together (4 per module).
-* [M3 5mm screws](https://www.accu.co.uk/flanged-button-screws/8592-SSBF-M3-5-A2): For connecting Payload Module holder to Thor Labs posts (3 total) and also for securing the Docking Module in its holder (2-4 depending on your preference)
-* [M3 10mm screws](https://www.accu.co.uk/flanged-button-screws/8595-SSBF-M3-10-A2): For connecting Constructor Head to Thor Labs posts (3 total)
+* [M3 5mm screws](https://www.accu.co.uk/flanged-button-screws/8592-SSBF-M3-5-A2): For connecting Payload Module holder to Thor Labs posts (3 total)
+* [M3 10mm screws](https://www.accu.co.uk/flanged-button-screws/8595-SSBF-M3-10-A2): For connecting Constructor Head to Thor Labs posts (3 total) and also for securing the Docking Module in its holder (2-4 depending on your preference)
 * [M3 20mm screws](https://www.accu.co.uk/flanged-button-screws/8600-SSBF-M3-20-A2): For connecting Constructor Head to Thor Labs posts (3 total)
 * [Thor labs posts](https://www.thorlabs.com/thorproduct.cfm?partnumber=MS3R/M): At least 3 for the constructor, potentially more to hold the probes etc.
 
