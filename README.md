@@ -1,4 +1,6 @@
 # Apollo Implant Parts List and Instructions
+## NOTE
+The commercially available NP2.0 probes have a slightly different form-factor from the previous release. We are in the process of making the minor changes to the implant to fit these probes, which will be completed (and posted here) before these probes ship. There are two versions of the commercially available NP2.0 probes: those with a "metal cap" (also called a dovetail) and those without. The Apollo Implant will work with both versions, but to minimise the size and weight of chronic implants, we recommend getting the probes without the metal cap.
 ## Parts List
 In this repository are all the parts required to build the chronic implant (not including glue, dental cement, etc.).
 Files are adjustable using annotated parameter tables. Please watch “SupplementaryVideo_1.mp4” (found here) if you are unfamiliar with this process. You will also need Autodesk Inventor which is free for educational use. This allows you to, for example, change the angle of the docking module, spacing between probes, or thickness of the walls. However, be aware that parameters like “length of exposed probes” are estimates based on our own use and not exact. The default values are those we use in the lab for a typical insertion, although we change them as needed.
@@ -12,8 +14,8 @@ Files specific to versions 1 and 2 of Neuropixels are in NP1 and NP2 folders. Ot
 This is the module that holds the probe(s). You will need one of these for each probe (or pair of probes) you use, and it is re-used across implantations. Print in Natural Rigid Resin 4000, including 4x M1 threaded inserts.
 
 <p align="center">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/dbcc2d88-6cc4-423e-9212-3a4559487b88">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/6fb54f80-a0e4-4599-84a2-07c32f734a5a">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/6d932aba-95ff-400f-87c5-b286c515460e">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/342aa9b6-97c1-4da7-822e-ae678719fe4f">
 </p>
 
 &nbsp;
@@ -24,8 +26,8 @@ This is a holder that can be attached to the Payload Module for construction, pa
 NOTE: to change the part for NP1 and NP2 versions, simply change the “SlotLength” (14/9 mm for NP1/NP2) and "InterArmExtend" (0.4/0 mm for NP1/NP2) parameters as instructed in the comments . We have provided .stp files for all versions.
 
 <p align="center">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/30cd3cbf-7e3a-48ae-88b0-b0d35fdda372">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/21c32d8c-e718-4e90-be72-18a383aceed5">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/665314e6-c5af-4019-92a6-9f7827f77623">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/c11606f2-2a0e-4d34-819c-7b9b809868e1">
 </p>
 
 &nbsp;
@@ -33,8 +35,8 @@ NOTE: to change the part for NP1 and NP2 versions, simply change the “SlotLeng
 This is the lid for Payload Module, to be attached with glue after the probe is cemented in position. You will need one per probe. Print in PA12.
 
 <p align="center">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/6b7b7dd6-016b-45d3-a615-0ab9daa0d3a8">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/f556ac69-d394-4086-8e4a-6ac93f295e79">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/ff92b541-b34a-47be-a0cf-19f633d9ab2a">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/0e75abd9-8448-4eb8-9d17-81f2b80c7986">
 </p>
 
 &nbsp;
@@ -42,8 +44,8 @@ This is the lid for Payload Module, to be attached with glue after the probe is 
 This is the module that is cemented to the skull after being screwed to the Payload Module. A new Docking Module is required for each insertion. Print in Natural Rigid Resin 4000.
 
 <p align="center">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/b3e99cb4-e781-4ec0-a874-747afeae4c21">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/002a76b7-ee2d-4e21-8202-b7aa971d87d7">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/11d06e51-a7d2-4d17-af85-f0f744a4ca93">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/8f824646-ecec-4fe6-868f-6988759c262c">
 </p>
 
 &nbsp;
@@ -51,15 +53,15 @@ This is the module that is cemented to the skull after being screwed to the Payl
 This holds the Docking Module in place when using the constructor to combine the two modules. You only need one of these. Print in Natural Rigid Resin 4000, including 4x M3 insert.
     
 <p align="center">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/e3dc120d-8f3c-4a25-8b4c-6c2e05d19a3d">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/854c364f-0fab-4801-8d83-6c0cbb5b683e">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/5b422126-788e-4381-9a86-dd3819ef6751">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/a73924c3-5e27-4622-b062-03dc5bbc17fb">
 </p>
 
 &nbsp;
 ### “ConstructorHead”
 This forms one end of the constructor setup (used to “safely” combine the docking and payload modules). You will only need one of these. Print in Natural Rigid Resin 4000. 
 <p align="center">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/ac061a60-7299-4786-aace-95b1e3edaea2">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/d9750dce-31a2-4ef1-ad70-424c6572bcde">
 </p>
 
 &nbsp;
@@ -72,8 +74,8 @@ NOTE: Links are for reference but could be sourced elsewhere. The brass inserts 
 * [M1 Brass knurled inserts](https://www.ebay.co.uk/itm/124331900287): To be heat-inserted into the Payload.
 * [M3 Brass knurled inserts](https://uk.rs-online.com/web/p/threaded-inserts/2040620): To be heat-inserted into the PayloadHolder and DockingHolder.
 * [M1 Screws](https://www.accu.co.uk/cheese-head-screws/6426-SFE-M1-3-A2): To lock modules together (4 per module).
-* [M3 5mm screws](https://www.accu.co.uk/flanged-button-screws/8592-SSBF-M3-5-A2): For connecting Payload Module holder to Thor Labs posts (3 total) and also for securing the Docking Module in its holder (2-4 depending on your preference)
-* [M3 10mm screws](https://www.accu.co.uk/flanged-button-screws/8595-SSBF-M3-10-A2): For connecting Constructor Head to Thor Labs posts (3 total)
+* [M3 5mm screws](https://www.accu.co.uk/flanged-button-screws/8592-SSBF-M3-5-A2): For connecting Payload Module holder to Thor Labs posts (3 total)
+* [M3 10mm screws](https://www.accu.co.uk/flanged-button-screws/8595-SSBF-M3-10-A2): For connecting Constructor Head to Thor Labs posts (3 total) and also for securing the Docking Module in its holder (2-4 depending on your preference)
 * [M3 20mm screws](https://www.accu.co.uk/flanged-button-screws/8600-SSBF-M3-20-A2): For connecting Constructor Head to Thor Labs posts (3 total)
 * [Thor labs posts](https://www.thorlabs.com/thorproduct.cfm?partnumber=MS3R/M): At least 3 for the constructor, potentially more to hold the probes etc.
 
@@ -100,11 +102,10 @@ This section describes how to put all the parts together. We recommend practicin
   5. You can now use the payload holder to sharpen your probe.
 
 <p align="center">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/c26eef7b-60ea-488e-811c-8f8cd00a1ea7">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/6eaa825d-e772-422b-aa68-67fa0e6fabe2">
 <p align="center">
 Stage 2.3 (left) and 2.4 (right) 
 </p>  
- 
  
 &nbsp;
 ### 3. FIXING A SECOND PROBE TO THE PAYLOAD MODULE 
@@ -121,7 +122,7 @@ These steps are only if you want a second probe. If you don’t, you can close t
 5.	Unscrew the now fully assembled implant from the payload module holder.  
  
 <p align="center">
-<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/b3e7ca5f-e2f5-4746-be48-d1cdc80c2663">
+<img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/119cb38c-35c5-43d6-83c8-ae715129d858">
 <p align="center">
 Stage 4.2 (left) and 4.5 (right)  
 </p>  
