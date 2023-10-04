@@ -23,7 +23,7 @@ This is the module that holds the probe(s). You will need one of these for each 
 This is a holder that can be attached to the Payload Module for construction, painting, implants, storage, carrying around etc. There are two versions which can be produced from the save file by adjusting the binary “REDUCEDHOLDERVERSION” parameter. 
 * If REDUCEDHOLDERVERSION is "0", you will see the version used for payload construction (below, left). You only need one of these. Print in PA12, including 2x M3 insert.
 * If REDUCEDHOLDERVERSION is "1", you will see the reduced version used general manipulation, storage, insertion etc. You need as many of these as would be useful. Print in PA12, including 2x M3 insert.
-NOTE: to change the part for NP1 and NP2 versions, simply change the “SlotLength” (14/9 mm for NP1/NP2) and "InterArmExtend" (0.4/0 mm for NP1/NP2) parameters as instructed in the comments . We have provided .stp files for all versions.
+NOTE: to change the part for NP1 and NP2 versions, simply change the “SlotLength” (14/9 mm for NP1/NP2) and "InterArmExtend" (0.4/0 mm for NP1/NP2) parameters as instructed in the comments.
 
 <p align="center">
 <img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/665314e6-c5af-4019-92a6-9f7827f77623">
