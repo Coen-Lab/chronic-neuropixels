@@ -1,4 +1,6 @@
 *.stl
 *.stp
+*.ipj
 *OldVersions
 *Assemblies
+NP2\
