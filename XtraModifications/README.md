@@ -6,5 +6,9 @@ If you have a part to upload, please _submit a pull request_. In the interests o
 1. Add files to the folder that matches your use-case: Animal_State (e.g. Mouse_Headfixed or Rat_FreelyMoving). If the folder doesn't exist, you can create it (e.g. Platypus_FreelySwimming... I can hope).
 2. Add _one_ file per part and name the file according to ProbeType_Function (e.g. NP1_HeadstageHolder) 
 3. Add parts in an editable format where possible _IF_ the software used is freely accessable to those in educational institutions. This will allow other members of the community to adjust the parts to their needs. Otherwise, upload a standard CAD format (e.g. STP or STL)
-4. Specify the material that you typically use to print the part.
-5. Include your contact details.
+4. Edit the readme to include:
+   * Sub-heading with the same name as your file.
+   * A description of the part and how you use it
+   * One or two (but no more) images of the part
+   * The material that you typically use to print the part.
+   * Your contact details.
