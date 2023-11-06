@@ -3,12 +3,12 @@ Each part will have a file associated with it, and where possible, this will be 
 
 &nbsp;
 ## “NameOfPart_ProbeType” 
-Function of the part.
-Material:
-Contact:
+Function of the part. <br>
+Material: <br>
+Contact: <br>
 
-&nbsp;
-&nbsp;
+&nbsp; <br>
+&nbsp; <br>
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
