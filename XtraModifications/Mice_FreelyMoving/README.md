@@ -1,4 +1,4 @@
-# Community-driven additional parts
+# Parts principally used with freely-moving mice
 Each part will have a file associated with it, and where possible, this will be in an editable format. It will also include the material typically used to print the part, and the contact details of the designer. Please acknowledge the designer appropriately if you use any of these parts.
 
 &nbsp;
