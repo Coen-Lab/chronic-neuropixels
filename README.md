@@ -1,6 +1,10 @@
 # Apollo Implant Parts List and Instructions
 ## NOTE
+ Please be aware that all .ipt files were created useing Autodesk Inventor _2023_. To edit the files and save them in your preferred format, you will need to download this software ([free for educational use](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual)). You will need the _2023_ version, or later, to open/edit the files. <br>
+ <br>
+
 The [commercially available NP2.0](https://www.neuropixels.org/order) probes have a different form-factor from the previous release (NP2_Alpha). We have an implant for the new version, but it needs a little more refinement. The design will be completed (and posted here) before the end of the year. There are two versions of the commercially available NP2.0 probes: those with a "metal cap" (also called a dovetail) and those without. The Apollo Implant will be tested with probes that do _not_ have the metal cap, to minimise the size and weight of chronic implants. However, with the adjustable parameters, it should be possible to accomodate probes with metal caps as well.
+
 ## Parts List
 In this repository are all the parts required to build the chronic implant (not including glue, dental cement, etc.).
 Files are adjustable using annotated parameter tables. Please watch “SupplementaryVideo_1.mp4” (found here) if you are unfamiliar with this process. You will also need Autodesk Inventor which is free for educational use. This allows you to, for example, change the angle of the docking module, spacing between probes, or thickness of the walls. However, be aware that parameters like “length of exposed probes” are estimates based on our own use and not exact. The default values are those we use in the lab for a typical insertion, although we change them as needed.
