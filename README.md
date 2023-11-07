@@ -5,12 +5,12 @@ The [commercially available NP2.0](https://www.neuropixels.org/order) probes hav
 In this repository are all the parts required to build the chronic implant (not including glue, dental cement, etc.).
 Files are adjustable using annotated parameter tables. Please watch “SupplementaryVideo_1.mp4” (found here) if you are unfamiliar with this process. You will also need Autodesk Inventor which is free for educational use. This allows you to, for example, change the angle of the docking module, spacing between probes, or thickness of the walls. However, be aware that parameters like “length of exposed probes” are estimates based on our own use and not exact. The default values are those we use in the lab for a typical insertion, although we change them as needed.
 
-Files are also inter-linked, such that changes you make to the parameters of Payload_NP1 will cause changes in Docking_NP1, and DockingHolder_NP1. Usually, these are changes you want because it means all the parts will fit together. However, you should be aware that these are happening, and can be overridden if needed.
+Files are also inter-linked, such that changes you make to the parameters of Payload will cause changes in Docking, and DockingHolder. Usually, these are changes you want because it means all the parts will fit together. However, you should be aware that these are happening, and can be overridden if needed.
 
-Files specific to versions 1 and 2 of Neuropixels are in NP1 and NP2 folders. Other parts are in the base folder and can be used (in some cases with a parameter change) for either version. NOTE: The "PayloadHolder" was updated on 27/09/2023 to add a minor adjustment for NP1 sizing. The "PayloadCap_NP1" was updated on 13/10/2023 for a minor adustment to better-accommodate NP1 probe thickness.
+Files specific to versions 1 and 2 of Neuropixels are in NP1 and NP2 folders. Other parts are in the base folder and can be used (in some cases with a parameter change) for either version. NOTE: The "PayloadHolder" was updated on 27/09/2023 to add a minor adjustment for NP1 sizing. The "PayloadCap" was updated on 13/10/2023 for a minor adustment to better-accommodate NP1 probe thickness.
 
 &nbsp;
-### “Payload_NP1” or “Payload_NP2_Alpha”
+### “NP1_Payload” or “NP2-Alpha_Payload”
 This is the module that holds the probe(s). You will need one of these for each probe (or pair of probes) you use, and it is re-used across implantations. Print in Natural Rigid Resin 4000, including 4x M1 threaded inserts.
 
 <p align="center">
@@ -19,7 +19,7 @@ This is the module that holds the probe(s). You will need one of these for each 
 </p>
 
 &nbsp;
-### “PayloadHolder_NP1” or “PayloadHolder_NP2_Alpha””
+### “NP1_PayloadHolder” or “NP2-Alpha_PayloadHolder”
 This is a holder that can be attached to the Payload Module for construction, painting, implants, storage, carrying around etc. There are two versions which can be produced from the save file by adjusting the binary “REDUCEDHOLDERVERSION” parameter. 
 * If REDUCEDHOLDERVERSION is "0", you will see the version used for payload construction (below, left). You only need one of these. Print in PA12, including 2x M3 insert.
 * If REDUCEDHOLDERVERSION is "1", you will see the reduced version used general manipulation, storage, insertion etc. You need as many of these as would be useful. Print in PA12, including 2x M3 insert.
@@ -30,7 +30,7 @@ This is a holder that can be attached to the Payload Module for construction, pa
 </p>
 
 &nbsp;
-### “PayloadCap_NP1” or “PayloadCap_NP2_Alpha”
+### “NP1_PayloadCap” or “NP2-Alpha_PayloadCap”
 This is the lid for Payload Module, to be attached with glue after the probe is cemented in position. You will need one per probe. Print in PA12.
 
 <p align="center">
@@ -39,7 +39,7 @@ This is the lid for Payload Module, to be attached with glue after the probe is 
 </p>
 
 &nbsp;
-### “Docking_NP1” or “Docking _NP2_Alpha”
+### “NP1_Docking” or “NP2-Alpha_Docking”
 This is the module that is cemented to the skull after being screwed to the Payload Module. A new Docking Module is required for each insertion. Print in Natural Rigid Resin 4000.
 
 <p align="center">
@@ -48,7 +48,7 @@ This is the module that is cemented to the skull after being screwed to the Payl
 </p>
 
 &nbsp;
-### “DockingHolder_NP1” or “DockingHolder_NP2_Alpha”
+### “NP1_DockingHolder” or “NP2-Alpha_DockingHolder”
 This holds the Docking Module in place when using the constructor to combine the two modules. You only need one of these. Print in Natural Rigid Resin 4000, including 4x M3 insert.
     
 <p align="center">
@@ -57,14 +57,14 @@ This holds the Docking Module in place when using the constructor to combine the
 </p>
 
 &nbsp;
-### “ConstructorHead”
+### “Universal_ConstructorHead”
 This forms one end of the constructor setup (used to “safely” combine the docking and payload modules). You will only need one of these. Print in Natural Rigid Resin 4000. 
 <p align="center">
 <img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/d9750dce-31a2-4ef1-ad70-424c6572bcde">
 </p>
 
 &nbsp;
-### “ProbeSharpener” 
+### “Universal_ProbeSharpener” 
 This is a simple part that we use to hold the probe itself in order to sharpen them prior to construction. Note that it uses a screw to hold the probe: do not tighten it too much, or the probe base will break.
 
 &nbsp;
