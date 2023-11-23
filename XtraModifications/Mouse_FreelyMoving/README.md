@@ -11,7 +11,9 @@ Whilst recordings were possible in this configuration, the force exerted by the 
 <br>
 The headstage can be attached to the NP1_HeadstageHolder with epoxy (permanent) or a wrap of parafilm (temporary). Prior to recordings, the arms of the NP1_HeadstageHolder are slid onto the ridges of the NP1_Payload (as with the NP1_PayloadHolder) (Fig 1B). The probe flex is lopped between the NP1_Payload and NP1_HeadstageHolder and attached to the ZIF connector at the base (Fig 1C). Importantly, for this to work the flex needs to be full length. 
 
-![Figure_github](https://github.com/NathanaelONeill/Apollo_Implant_Modifications/assets/94172541/5feb5479-5040-4a93-9992-617a45e0eeae)
+<p align="center">
+  <img src = "https://github.com/Coen-Lab/chronic-neuropixels/assets/1191043/91b22046-b482-48f1-8089-c93ed1ceb06c">
+</p>
 
 ### Material
 Selective laser sintering. Material: Nylon PA12. Printed by: www.sgd3d.co.uk. Weight (without the headstage) = 0.5 g 
