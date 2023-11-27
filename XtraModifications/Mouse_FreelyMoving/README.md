@@ -23,10 +23,8 @@ Design was by Nathanael O'Neill, a postdoc in the Lignani lab, UCL email: skgtno
 Freely moving recordings using NP1_HeadstageHolder were performed by Nathanael O'Neill and James Street 
 The dimensions of the headstage mount of the NP1_HeadstageHolder were from [Emily A. Aery Jones](https://github.com/emilyasterjones)'s excellent [protocol](https://github.com/emilyasterjones/chronic_NPX_mouse) 
 
-<br>
-<br>
-
-Sofware used: <br>
+### Sofware used
+Autodesk, Fusion360 2.0.17721 x86_64
 
 <br>
 <br>
