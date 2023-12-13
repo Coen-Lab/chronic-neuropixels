@@ -35,7 +35,7 @@ This is a holder that can be attached to the Payload Module for construction, pa
 </p>
 
 &nbsp;
-### “NP1_PayloadCap” or “NP2-Alpha_PayloadCap”
+### “NP1_PayloadLid” or “NP2-Alpha_PayloadLid”
 This is the lid for Payload Module, to be attached with glue after the probe is cemented in position. You will need one per probe. Print in PA12.  
 
 <p align="center">
