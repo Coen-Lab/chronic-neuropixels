@@ -54,7 +54,7 @@ figure
 </p>
 
 ### Material
-Stereolithography (SLA) printing in a Form 2. Material: Resin Rigid 4000. Printed in-house. Weight (without the headstage) = 0.5 g 
+Stereolithography (SLA) printing in a Form 2. Material: Resin Rigid 4000. Printed in-house. Weight (without the headstage) = 1.4 g 
 
 ### Contact
 Design by Filipe Mendes (Champalimaud Research Scientific Hardware Platform), Joana Catarino and José Teixeira (Systems Neuroscience / Mainen Lab). Freely-moving recordings using this component were performed by Joana Catarino and José Teixeira.
@@ -74,7 +74,7 @@ Solidworks Professional SP5 2022
 ## NP2_HeadstageHolder_top
 ### Function
 
-This part is identical to the NP1_HeadstageHolder_top that is described above, expect it was designed for single Neuropixels 2.0 Apollo implants. Thus, the details of this component are the same, except its weight: 0.5g (without headstage)
+This part is identical to the NP1_HeadstageHolder_top that is described above, expect it was designed for single Neuropixels 2.0 Apollo implants. Thus, the details of this component are the same, except its weight: 1.1g (without headstage).
 
 <br>
 <br>
