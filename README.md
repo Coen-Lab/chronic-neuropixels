@@ -14,6 +14,14 @@ Files are also inter-linked, such that changes you make to the parameters of Pay
 
 Files specific to versions 1 and 2 of Neuropixels are in NP1 and NP2 folders. Other parts are in the base folder and can be used (in some cases with a parameter change) for either version. NOTE: The "PayloadHolder" was updated on 27/09/2023 to add a minor adjustment for NP1 sizing. The "PayloadCap" was updated on 13/10/2023 for a minor adustment to better-accommodate NP1 probe thickness.
 
+- [Payload module](https://github.com/Coen-Lab/chronic-neuropixels/tree/main#np1_payload-or-np2-alpha_payload)
+- [Payload module holder](https://github.com/Coen-Lab/chronic-neuropixels/tree/main#np1_payloadholder-or-np2-alpha_payloadholder)
+- [Lid](https://github.com/Coen-Lab/chronic-neuropixels/tree/main#np1_payloadlid-or-np2-alpha_payloadlid)
+- [Docking module](https://github.com/Coen-Lab/chronic-neuropixels/tree/main#np1_docking-or-np2-alpha_docking)
+- [Docking module holder](https://github.com/Coen-Lab/chronic-neuropixels/tree/main#np1_dockingholder-or-np2-alpha_dockingholder)
+- [Constructor head](https://github.com/Coen-Lab/chronic-neuropixels/tree/main#universal_constructorhead)
+- [Universal probe sharpener](https://github.com/Coen-Lab/chronic-neuropixels/tree/main#universal_probesharpener)
+
 &nbsp;
 ### “NP1_Payload” or “NP2-Alpha_Payload”
 This is the module that holds the probe(s). You will need one of these for each probe (or pair of probes) you use, and it is re-used across implantations. Print in Natural Rigid Resin 4000, including 4x M1 threaded inserts.
