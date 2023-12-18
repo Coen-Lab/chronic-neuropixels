@@ -55,7 +55,7 @@ In our hands, lighter mice (close to 20g in BW) take around 1 week to recover fr
 Stereolithography (SLA) printing in a Form 2. Material: Resin Rigid 4000. Printed in-house. Weight (without the headstage) = 1.4 g (NP1.0) or 1.1g (NP2.0-Alpha)
 
 ### Contact
-Design by Filipe Mendes (Champalimaud Research Scientific Hardware Platform), Joana Catarino and José Teixeira (Systems Neuroscience / Mainen Lab). Freely-moving recordings using this component were performed by Joana Catarino and José Teixeira.
+Design by Filipe Mendes (Champalimaud Research Hardware and Software Platform), Joana Catarino and José Teixeira (Systems Neuroscience / Mainen Lab). Freely-moving recordings using this component were performed by Joana Catarino and José Teixeira.
 <br>
 
 Filipe Mendes - filipe.mendes@research.fchampalimaud.org
