@@ -57,9 +57,7 @@ Stereolithography (SLA) printing in a Form 2. Material: Resin Rigid 4000. Printe
 ### Contact
 Design by Filipe Mendes (Champalimaud Research Scientific Hardware Platform), Joana Catarino and José Teixeira (Systems Neuroscience / Mainen Lab). Freely-moving recordings using this component were performed by Joana Catarino and José Teixeira.
 <br>
-<br>
 
-<br>
 Filipe Mendes - filipe.mendes@research.fchampalimaud.org
 <br>
 Joana Catarino - joana.catarino@ki.se
