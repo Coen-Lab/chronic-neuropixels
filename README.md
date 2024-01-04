@@ -8,7 +8,7 @@ The [commercially available NP2.0](https://www.neuropixels.org/order) probes hav
 
 ## Parts List
 In this repository are all the parts required to build the chronic implant (not including glue, dental cement, etc.).
-Files are adjustable using annotated parameter tables. Please watch “SupplementaryVideo_1.mp4” (found here) if you are unfamiliar with this process. You will also need Autodesk Inventor which is free for educational use. This allows you to, for example, change the angle of the docking module, spacing between probes, or thickness of the walls. However, be aware that parameters like “length of exposed probes” are estimates based on our own use and not exact. The default values are those we use in the lab for a typical insertion, although we change them as needed. 
+Files are adjustable using annotated parameter tables. Please watch “SupplementaryVideo_1.mp4” ([found here](https://www.biorxiv.org/content/10.1101/2023.08.03.551752v1.supplementary-material)) if you are unfamiliar with this process. You will also need Autodesk Inventor which is free for educational use. This allows you to, for example, change the angle of the docking module, spacing between probes, or thickness of the walls. However, be aware that parameters like “length of exposed probes” are estimates based on our own use and not exact. The default values are those we use in the lab for a typical insertion, although we change them as needed. 
 
 Files are also inter-linked, such that changes you make to the parameters of Payload will cause changes in Docking, and DockingHolder. Usually, these are changes you want because it means all the parts will fit together. However, you should be aware that these are happening, and can be overridden if needed.
 
