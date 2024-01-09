@@ -1,4 +1,6 @@
 # Apollo Implant Parts List and Instructions
+For more information on the chronic implant detailed in this repository, please refer to our recent [preprint](https://www.biorxiv.org/content/10.1101/2023.08.03.551752v2).  
+
 ## NOTE
 Please be aware that all .ipt files were created useing Autodesk Inventor _2023_. To edit the files and save them in your preferred format, you will need to download this software [free for educational use](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual). You will need the _2023_ version, or later, to open/edit the files.
  <br>
