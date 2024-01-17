@@ -70,6 +70,32 @@ José Teixeira - jose.gomesteixeira@donders.ru.nl
 ### Sofware used
 Solidworks Professional SP5 2022
 
+
+## NP2_SingleProbeMiniatureDockingWithHeadstageHolder & NP2_SingleProbeMiniaturePayload
+
+### Function
+
+This part was designed to have a minimal footprint, for a single Neuropixels 2.0 probe with a headstage that can be 
+attached on the implant for long periods of time (e.g. in free moving experiments or in the homecage between 
+experiments). The currently available docking part leaves 3.5mm of probe exposed and has a contact angle of 16 degrees. A 
+fully parameterised version of the docking part will be available in the near future.
+
+![Asset 4](https://github.com/stephenlenzi/chronic-neuropixels/assets/12136220/f8920ddf-aaed-4c3a-a12f-e29ee1075c73)
+
+### Material
+Printed at SWC-FabLab with a Form 3. Material: Resin Rigid 4000.
+
+### Contact
+Design was by Simon Townsend (SWC FabLab, Sainsbury Wellcome Centre, UCL) with Stephen Lenzi (Margrie Lab).
+<br>
+Stephen Lenzi - s.lenzi@ucl.ac.uk
+<br>
+Simon Townsend - simon.townsend@ucl.ac.uk
+
+### Sofware used
+Autodesk Inventor 2023
+
+
 <br>
 <br>
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
