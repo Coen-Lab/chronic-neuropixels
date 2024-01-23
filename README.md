@@ -1,4 +1,6 @@
 # Apollo Implant Parts List and Instructions
+For more information on the chronic implant detailed in this repository, please refer to our recent [preprint](https://www.biorxiv.org/content/10.1101/2023.08.03.551752v2).  
+
 ## NOTE
 Please be aware that all .ipt files were created useing Autodesk Inventor _2023_. To edit the files and save them in your preferred format, you will need to download this software [free for educational use](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual). You will need the _2023_ version, or later, to open/edit the files.
  <br>
@@ -8,11 +10,19 @@ The [commercially available NP2.0](https://www.neuropixels.org/order) probes hav
 
 ## Parts List
 In this repository are all the parts required to build the chronic implant (not including glue, dental cement, etc.).
-Files are adjustable using annotated parameter tables. Please watch “SupplementaryVideo_1.mp4” (found here) if you are unfamiliar with this process. You will also need Autodesk Inventor which is free for educational use. This allows you to, for example, change the angle of the docking module, spacing between probes, or thickness of the walls. However, be aware that parameters like “length of exposed probes” are estimates based on our own use and not exact. The default values are those we use in the lab for a typical insertion, although we change them as needed. 
+Files are adjustable using annotated parameter tables. Please watch “SupplementaryVideo_1.mp4” ([found here](https://www.biorxiv.org/content/10.1101/2023.08.03.551752v1.supplementary-material)) if you are unfamiliar with this process. You will also need Autodesk Inventor which is free for educational use. This allows you to, for example, change the angle of the docking module, spacing between probes, or thickness of the walls. However, be aware that parameters like “length of exposed probes” are estimates based on our own use and not exact. The default values are those we use in the lab for a typical insertion, although we change them as needed. 
 
 Files are also inter-linked, such that changes you make to the parameters of Payload will cause changes in Docking, and DockingHolder. Usually, these are changes you want because it means all the parts will fit together. However, you should be aware that these are happening, and can be overridden if needed.
 
 Files specific to versions 1 and 2 of Neuropixels are in NP1 and NP2 folders. Other parts are in the base folder and can be used (in some cases with a parameter change) for either version. NOTE: The "PayloadHolder" was updated on 27/09/2023 to add a minor adjustment for NP1 sizing. The "PayloadCap" was updated on 13/10/2023 for a minor adustment to better-accommodate NP1 probe thickness.
+
+- [Payload module](https://github.com/Coen-Lab/chronic-neuropixels/tree/main#np1_payload-or-np2-alpha_payload)
+- [Payload module holder](https://github.com/Coen-Lab/chronic-neuropixels/tree/main#np1_payloadholder-or-np2-alpha_payloadholder)
+- [Lid](https://github.com/Coen-Lab/chronic-neuropixels/tree/main#np1_payloadlid-or-np2-alpha_payloadlid)
+- [Docking module](https://github.com/Coen-Lab/chronic-neuropixels/tree/main#np1_docking-or-np2-alpha_docking)
+- [Docking module holder](https://github.com/Coen-Lab/chronic-neuropixels/tree/main#np1_dockingholder-or-np2-alpha_dockingholder)
+- [Constructor head](https://github.com/Coen-Lab/chronic-neuropixels/tree/main#universal_constructorhead)
+- [Universal probe sharpener](https://github.com/Coen-Lab/chronic-neuropixels/tree/main#universal_probesharpener)
 
 &nbsp;
 ### “NP1_Payload” or “NP2-Alpha_Payload”
@@ -75,9 +85,9 @@ This is a simple part that we use to hold the probe itself in order to sharpen t
 &nbsp;
 ### Additional screws and bolts:
 NOTE: Links are for reference but could be sourced elsewhere. The brass inserts can be easily inserted using a soldering iron and mild pressure. We typically do this in-house, but your 3D-printing company may also do this for you upon request.
-* [M1 Brass knurled inserts](https://www.ebay.co.uk/itm/124331900287): To be heat-inserted into the Payload.
+* [M1 Brass knurled inserts](https://www.ebay.co.uk/itm/124738465135): To be heat-inserted into the Payload. Also available in large quantities on aliexpress from [many vendors](https://www.ebay.co.uk/itm/124738465135](https://www.aliexpress.com/w/wholesale-Brass-inserts-m1-1000-pcs.html ).
 * [M3 Brass knurled inserts](https://uk.rs-online.com/web/p/threaded-inserts/2040620): To be heat-inserted into the PayloadHolder and DockingHolder.
-* [M1 Screws](https://www.accu.co.uk/cheese-head-screws/6426-SFE-M1-3-A2): To lock modules together (4 per module).
+* [M1 Screws](https://www.accu.co.uk/cheese-head-screws/6425-SFE-M1-2-A2): To lock modules together (4 per module).
 * [M3 5mm screws](https://www.accu.co.uk/flanged-button-screws/8592-SSBF-M3-5-A2): For connecting Payload Module holder to Thor Labs posts (3 total)
 * [M3 10mm screws](https://www.accu.co.uk/flanged-button-screws/8595-SSBF-M3-10-A2): For connecting Constructor Head to Thor Labs posts (3 total) and also for securing the Docking Module in its holder (2-4 depending on your preference)
 * [M3 20mm screws](https://www.accu.co.uk/flanged-button-screws/8600-SSBF-M3-20-A2): For connecting Constructor Head to Thor Labs posts (3 total)
