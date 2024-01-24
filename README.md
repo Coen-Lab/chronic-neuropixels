@@ -85,7 +85,7 @@ This is a simple part that we use to hold the probe itself in order to sharpen t
 &nbsp;
 ### Additional screws and bolts:
 NOTE: Links are for reference but could be sourced elsewhere. The brass inserts can be easily inserted using a soldering iron and mild pressure. We typically do this in-house, but your 3D-printing company may also do this for you upon request.
-* [M1 Brass knurled inserts](https://www.ebay.co.uk/itm/124738465135): To be heat-inserted into the Payload. Also available in large quantities on aliexpress from [many vendors](https://www.ebay.co.uk/itm/124738465135](https://www.aliexpress.com/w/wholesale-Brass-inserts-m1-1000-pcs.html ).
+* [M1 Brass knurled inserts](https://www.ebay.co.uk/itm/124738465135): To be heat-inserted into the Payload. Also available in large quantities on aliexpress from [many vendors](https://www.aliexpress.com/w/wholesale-m1-bradd-insterts.html?spm=a2g0o.best.search.0).
 * [M3 Brass knurled inserts](https://uk.rs-online.com/web/p/threaded-inserts/2040620): To be heat-inserted into the PayloadHolder and DockingHolder.
 * [M1 Screws](https://www.accu.co.uk/cheese-head-screws/6425-SFE-M1-2-A2): To lock modules together (4 per module).
 * [M3 5mm screws](https://www.accu.co.uk/flanged-button-screws/8592-SSBF-M3-5-A2): For connecting Payload Module holder to Thor Labs posts (3 total)
