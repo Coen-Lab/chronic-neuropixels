@@ -83,6 +83,8 @@ fully parameterised version is also included, which allows the user to set angle
 This parameterised file was generated with Autodesk 2024 and is not backwards compatible.
 
 ![Asset 4](https://github.com/stephenlenzi/chronic-neuropixels/assets/12136220/f8920ddf-aaed-4c3a-a12f-e29ee1075c73)
+![img_3](https://github.com/stephenlenzi/chronic-neuropixels/assets/12136220/8417c02e-a587-4a01-adb4-8edf812f75ca)
+![img_2](https://github.com/stephenlenzi/chronic-neuropixels/assets/12136220/0e7dc438-e36a-4895-8057-469e9e2dde86)
 
 
 
@@ -94,6 +96,8 @@ This part was designed to have a minimal footprint, for a single Neuropixels 2 A
 attached on the implant for long periods of time (e.g. in free moving experiments or in the homecage between 
 experiments). The available .stp docking part leaves 3.5mm of probe exposed and has a contact angle of 16 degrees.
 
+![img_1](https://github.com/stephenlenzi/chronic-neuropixels/assets/12136220/362ced00-a193-40e5-8a30-bca2a3fb6316)
+![img](https://github.com/stephenlenzi/chronic-neuropixels/assets/12136220/98f3a983-02e7-4039-b454-8623f87592ca)
 
 ### Material
 Printed at SWC-FabLab with a Form 3. Material: Resin Rigid 4000.
