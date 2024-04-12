@@ -104,6 +104,8 @@ Autodesk Inventor 2023
 ### Function
 
 This design has a modified payload module for a single Neuropixels 1.0 probe achieving reduction in weight, and a headstage-holder that can be mounted to sides of any default NP1 docking module, achieving reduction in height. The trough-holes on the NP1 headstage are used to attach the headstage to the headstage holder (the holes on the holder require same threaded insert nuts as in the payoad module).
+
+
 ![Asset 5](NP1_Duan_SummaryPic-1.png)
 
 ### Material
