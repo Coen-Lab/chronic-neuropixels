@@ -4,7 +4,7 @@ Each part will have a file associated with it, and where possible, this will be 
 - [NP1_HeadstageHolder](https://github.com/Coen-Lab/chronic-neuropixels/tree/main/XtraModifications/Mouse_FreelyMoving#np1_headstageholder)
 - [NP1_HeadstageHolder_top & NP2-Alpha_HeadstageHolder_top](https://github.com/Coen-Lab/chronic-neuropixels/tree/main/XtraModifications/Mouse_FreelyMoving#np1_headstageholder_top--np2-alpha_headstageholder_top)
 - [NP2_SingleProbeMiniatureDockingWithHeadstageHolder & NP2_SingleProbeMiniaturePayload](https://github.com/Coen-Lab/chronic-neuropixels/tree/main/XtraModifications/Mouse_FreelyMoving#np2_singleprobeminiaturedockingwithheadstageholder--np2_singleprobeminiaturepayload)
-- [NP1_Payload_SingleProbe_Hollow & NP1_HeadstageHolder_DockingMount](#np1_payload_singleprobe_hollow-&-np1_headstageholder_dockingmount)
+- [NP1_Payload_SingleProbe_Hollow & NP1_HeadstageHolder_DockingMount](#NP1_Payload_SingleProbe_Hollow-&-NP1_HeadstageHolder_DockingMount)
 
 ## NP1_HeadstageHolder
 ### Function
@@ -99,7 +99,7 @@ Autodesk Inventor 2023
 
 
 
-## NP1_Payload_SingleProbe_Hollow & NP1_HeadstageHolder_DockingMount
+## <a id="NP1_Payload_SingleProbe_Hollow & NP1_HeadstageHolder_DockingMount"></a> NP1_Payload_SingleProbe_Hollow & NP1_HeadstageHolder_DockingMount ##
 
 ### Function
 
