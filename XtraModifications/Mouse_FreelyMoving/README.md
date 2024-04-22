@@ -4,6 +4,7 @@ Each part will have a file associated with it, and where possible, this will be 
 - [NP1_HeadstageHolder](https://github.com/Coen-Lab/chronic-neuropixels/tree/main/XtraModifications/Mouse_FreelyMoving#np1_headstageholder)
 - [NP1_HeadstageHolder_top & NP2-Alpha_HeadstageHolder_top](https://github.com/Coen-Lab/chronic-neuropixels/tree/main/XtraModifications/Mouse_FreelyMoving#np1_headstageholder_top--np2-alpha_headstageholder_top)
 - [NP2_SingleProbeMiniatureDockingWithHeadstageHolder & NP2_SingleProbeMiniaturePayload](https://github.com/Coen-Lab/chronic-neuropixels/tree/main/XtraModifications/Mouse_FreelyMoving#np2_singleprobeminiaturedockingwithheadstageholder--np2_singleprobeminiaturepayload)
+- [NP1_Payload_SingleProbe_Hollow & NP1_HeadstageHolder_DockingMount](#NP1_Payload_SingleProbe_Hollow-&-NP1_HeadstageHolder_DockingMount)
 
 ## NP1_HeadstageHolder
 ### Function
@@ -97,6 +98,28 @@ Simon Townsend - simon.townsend@ucl.ac.uk
 Autodesk Inventor 2023
 
 
+
+## <a id="NP1_Payload_SingleProbe_Hollow & NP1_HeadstageHolder_DockingMount"></a> NP1_Payload_SingleProbe_Hollow & NP1_HeadstageHolder_DockingMount ##
+
+### Function
+
+This design has a modified payload module for a single Neuropixels 1.0 probe achieving reduction in weight, and a headstage-holder that can be mounted to sides of any default NP1 docking module, achieving reduction in height. The trough-holes on the NP1 headstage are used to attach the headstage to the headstage holder (the holes on the holder require same threaded insert nuts as in the payoad module).
+
+
+![Asset 5](NP1_Duan_SummaryPic-1.png)
+
+### Material
+Printed at SWC-FabLab with a Form 3. Material: Resin Rigid 4000.
+
+### Contact
+Design by Ivana Orsolic (Duan Lab, Sainsbury Wellcome Centre, UCL) and Simon Townsend (SWC FabLab, Sainsbury Wellcome Centre, UCL).
+<br>
+Ivana Orsolic - i.orsolic@ucl.ac.uk
+<br>
+Simon Townsend - simon.townsend@ucl.ac.uk
+
+### Sofware used
+Autodesk Inventor 2023 & 2024
 <br>
 <br>
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
