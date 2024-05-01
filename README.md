@@ -1,6 +1,11 @@
 # Apollo Implant Parts List and Instructions
 For more information on the chronic implant detailed in this repository, please refer to our recent [preprint](https://www.biorxiv.org/content/10.1101/2023.08.03.551752v3).  
 
+## Issues and Discussions
+* If you have any problems with the implant, or difficulty sourcing the components etc. please use the "Issues" feature of github. 
+* If you have ideas/feature requests or you want to ask a question, please use the "Discussions" feature of github. 
+* If you have designed your own adaptations to the Apollo Implant that you think would be useful to the community, please submit a pull request to the repository, following the instructions shown [here](https://github.com/Coen-Lab/chronic-neuropixels/tree/main/XtraModifications).
+
 ## NOTE
 Please be aware that all .ipt files were created useing Autodesk Inventor _2023_. To edit the files and save them in your preferred format, you will need to download this software [free for educational use](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual). You will need the _2023_ version, or later, to open/edit the files.
  <br>
