@@ -2,6 +2,7 @@
 For more information on the chronic implant detailed in this repository, please refer to our recent [preprint](https://www.biorxiv.org/content/10.1101/2023.08.03.551752v3).  
 
 ## Issues and Discussions
+* NOTE: On 14/06/2024 the files were updated to allow for larger inter-probe distances (a commonly requested feature). We believe this works well, but we have not tested the updated parts ourselves. Please contact us if you have any issues. This will change the behaviour of the parts slightly for Inter-Probe distances between 2 & 4 mm (in short, the heigh of the payload walls now increases, rather than the lid being extended). If you want to continue using the older files, please use an earlier version of the repository.
 * If you have any problems with the implant, or difficulty sourcing the components etc. please use the "Issues" feature of github. 
 * If you have ideas/feature requests or you want to ask a question, please use the "Discussions" feature of github. 
 * If you have designed your own adaptations to the Apollo Implant that you think would be useful to the community, please submit a pull request to the repository, following the instructions shown [here](https://github.com/Coen-Lab/chronic-neuropixels/tree/main/XtraModifications).
