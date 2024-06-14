@@ -1,16 +1,21 @@
 # Apollo Implant Parts List and Instructions
-For more information on the chronic implant detailed in this repository, please refer to our recent [preprint](https://www.biorxiv.org/content/10.1101/2023.08.03.551752v2).  
+For more information on the chronic implant detailed in this repository, please refer to our recent [preprint](https://www.biorxiv.org/content/10.1101/2023.08.03.551752v3).  
+
+## Issues and Discussions
+* If you have any problems with the implant, or difficulty sourcing the components etc. please use the "Issues" feature of github. 
+* If you have ideas/feature requests or you want to ask a question, please use the "Discussions" feature of github. 
+* If you have designed your own adaptations to the Apollo Implant that you think would be useful to the community, please submit a pull request to the repository, following the instructions shown [here](https://github.com/Coen-Lab/chronic-neuropixels/tree/main/XtraModifications).
 
 ## NOTE
 Please be aware that all .ipt files were created useing Autodesk Inventor _2023_. To edit the files and save them in your preferred format, you will need to download this software [free for educational use](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual). You will need the _2023_ version, or later, to open/edit the files.
  <br>
  <br>
 
-The [commercially available NP2.0](https://www.neuropixels.org/order) probes have a different form-factor from the previous release (NP2_Alpha). We have an implant for the new version, and the design is posted here. HOWEVER, we have yet to implant these probes ourselves, so we cannot guarantee that everything will fit perfectly. Please let us know if you have any issues with these parts, or if you use them successfully! There are two versions of the commercially available NP2.0 probes: those with a "metal cap" (also called a dovetail) and those without. The Apollo Implant will be tested with probes that do _not_ have the metal cap, to minimise the size and weight of chronic implants. However, with the adjustable parameters, it should be possible to accomodate probes with metal caps as well.
+The [commercially available NP2.0](https://www.neuropixels.org/order) probes have a different form-factor from the previous release (NP2_Alpha). We have an implant for the new version, and the design is posted here. However, it has undergone less testing, so please let us know if you have any issues with these parts, or if you use them successfully! Most of the images below reference the NP2_Alpha build, although the same documentation applies to both versions and we plan to update this in the future. There are two versions of the commercially available NP2.0 probes: those with a "metal cap" (also called a dovetail) and those without. The Apollo Implant will be tested with probes that do _not_ have the metal cap, to minimise the size and weight of chronic implants. However, with the adjustable parameters, it should be possible to accomodate probes with metal caps as well.
 
 ## Parts List
 In this repository are all the parts required to build the chronic implant (not including glue, dental cement, etc.).
-Files are adjustable using annotated parameter tables. Please watch “SupplementaryVideo_1.mp4” ([found here](https://www.biorxiv.org/content/10.1101/2023.08.03.551752v1.supplementary-material)) if you are unfamiliar with this process. You will also need Autodesk Inventor which is free for educational use. This allows you to, for example, change the angle of the docking module, spacing between probes, or thickness of the walls. However, be aware that parameters like “length of exposed probes” are estimates based on our own use and not exact. The default values are those we use in the lab for a typical insertion, although we change them as needed. 
+Files are adjustable using annotated parameter tables. Please watch “SupplementaryVideo_1.mp4” ([found here](https://www.biorxiv.org/content/10.1101/2023.08.03.551752v3.supplementary-material)) if you are unfamiliar with this process. You will also need Autodesk Inventor which is free for educational use. This allows you to, for example, change the angle of the docking module, spacing between probes, or thickness of the walls. However, be aware that parameters like “length of exposed probes” are estimates based on our own use and not exact. The default values are those we use in the lab for a typical insertion, although we change them as needed. 
 
 Files are also inter-linked, such that changes you make to the parameters of Payload will cause changes in Docking, and DockingHolder. Usually, these are changes you want because it means all the parts will fit together. However, you should be aware that these are happening, and can be overridden if needed.
 
@@ -85,7 +90,7 @@ This is a simple part that we use to hold the probe itself in order to sharpen t
 &nbsp;
 ### Additional screws and bolts:
 NOTE: Links are for reference but could be sourced elsewhere. The brass inserts can be easily inserted using a soldering iron and mild pressure. We typically do this in-house, but your 3D-printing company may also do this for you upon request.
-* [M1 Brass knurled inserts](https://www.ebay.co.uk/itm/124738465135): To be heat-inserted into the Payload. Also available in large quantities on aliexpress from [many vendors](https://www.ebay.co.uk/itm/124738465135](https://www.aliexpress.com/w/wholesale-Brass-inserts-m1-1000-pcs.html ).
+* [M1 Brass knurled inserts](https://www.ebay.co.uk/itm/124738465135): To be heat-inserted into the Payload. Also available in large quantities on aliexpress from [many vendors](https://www.aliexpress.com/w/wholesale-m1-brass-inserts.html?spm=a2g0o.productlist.search.0).
 * [M3 Brass knurled inserts](https://uk.rs-online.com/web/p/threaded-inserts/2040620): To be heat-inserted into the PayloadHolder and DockingHolder.
 * [M1 Screws](https://www.accu.co.uk/cheese-head-screws/6425-SFE-M1-2-A2): To lock modules together (4 per module).
 * [M3 5mm screws](https://www.accu.co.uk/flanged-button-screws/8592-SSBF-M3-5-A2): For connecting Payload Module holder to Thor Labs posts (3 total)

@@ -4,6 +4,7 @@ Each part will have a file associated with it, and where possible, this will be 
 - [NP1_HeadstageHolder](https://github.com/Coen-Lab/chronic-neuropixels/tree/main/XtraModifications/Mouse_FreelyMoving#np1_headstageholder)
 - [NP1_HeadstageHolder_top & NP2-Alpha_HeadstageHolder_top](https://github.com/Coen-Lab/chronic-neuropixels/tree/main/XtraModifications/Mouse_FreelyMoving#np1_headstageholder_top--np2-alpha_headstageholder_top)
 - [NP2_SingleProbeMiniatureDockingWithHeadstageHolder & NP2_SingleProbeMiniaturePayload](https://github.com/Coen-Lab/chronic-neuropixels/tree/main/XtraModifications/Mouse_FreelyMoving#np2_singleprobeminiaturedockingwithheadstageholder--np2_singleprobeminiaturepayload)
+- [NP1_Payload_SingleProbe_Hollow & NP1_HeadstageHolder_DockingMount](#NP1_Payload_SingleProbe_Hollow-&-NP1_HeadstageHolder_DockingMount)
 
 ## NP1_HeadstageHolder
 ### Function
@@ -72,16 +73,32 @@ José Teixeira - jose.gomesteixeira@donders.ru.nl
 Solidworks Professional SP5 2022
 
 
-## NP2_SingleProbeMiniatureDockingWithHeadstageHolder & NP2_SingleProbeMiniaturePayload
+## NP2-Alpha_SingleProbeDockingWithHeadstage_FullyParameterised & NP2_SingleProbeMiniaturePayload
 
 ### Function
 
 This part was designed to have a minimal footprint, for a single Neuropixels 2.0 probe with a headstage that can be 
 attached on the implant for long periods of time (e.g. in free moving experiments or in the homecage between 
-experiments). The currently available docking part leaves 3.5mm of probe exposed and has a contact angle of 16 degrees. A 
-fully parameterised version of the docking part will be available in the near future.
+experiments). The available .stp docking part leaves 3.5mm of probe exposed and has a contact angle of 16 degrees. A 
+fully parameterised version is also included, which allows the user to set angles, tapers and amount of probe exposed.
+This parameterised file was generated with Autodesk 2024 and is not backwards compatible.
 
 ![Asset 4](https://github.com/stephenlenzi/chronic-neuropixels/assets/12136220/f8920ddf-aaed-4c3a-a12f-e29ee1075c73)
+![img_3](https://github.com/stephenlenzi/chronic-neuropixels/assets/12136220/8417c02e-a587-4a01-adb4-8edf812f75ca)
+![img_2](https://github.com/stephenlenzi/chronic-neuropixels/assets/12136220/0e7dc438-e36a-4895-8057-469e9e2dde86)
+
+
+
+## NP2-Alpha_SingleProbeDockingWithHeadstage & NP2-Alpha_SingleProbePayload
+
+### Function
+
+This part was designed to have a minimal footprint, for a single Neuropixels 2 Alpha probe with a headstage that can be 
+attached on the implant for long periods of time (e.g. in free moving experiments or in the homecage between 
+experiments). The available .stp docking part leaves 3.5mm of probe exposed and has a contact angle of 16 degrees.
+
+![img_1](https://github.com/stephenlenzi/chronic-neuropixels/assets/12136220/362ced00-a193-40e5-8a30-bca2a3fb6316)
+![img](https://github.com/stephenlenzi/chronic-neuropixels/assets/12136220/98f3a983-02e7-4039-b454-8623f87592ca)
 
 ### Material
 Printed at SWC-FabLab with a Form 3. Material: Resin Rigid 4000.
@@ -97,6 +114,28 @@ Simon Townsend - simon.townsend@ucl.ac.uk
 Autodesk Inventor 2023
 
 
+
+## <a id="NP1_Payload_SingleProbe_Hollow & NP1_HeadstageHolder_DockingMount"></a> NP1_Payload_SingleProbe_Hollow & NP1_HeadstageHolder_DockingMount ##
+
+### Function
+
+This design has a modified payload module for a single Neuropixels 1.0 probe achieving reduction in weight, and a headstage-holder that can be mounted to sides of any default NP1 docking module, achieving reduction in height. The trough-holes on the NP1 headstage are used to attach the headstage to the headstage holder (the holes on the holder require same threaded insert nuts as in the payoad module).
+
+
+![Asset 5](NP1_Duan_SummaryPic-1.png)
+
+### Material
+Printed at SWC-FabLab with a Form 3. Material: Resin Rigid 4000.
+
+### Contact
+Design by Ivana Orsolic (Duan Lab, Sainsbury Wellcome Centre, UCL) and Simon Townsend (SWC FabLab, Sainsbury Wellcome Centre, UCL).
+<br>
+Ivana Orsolic - i.orsolic@ucl.ac.uk
+<br>
+Simon Townsend - simon.townsend@ucl.ac.uk
+
+### Sofware used
+Autodesk Inventor 2023 & 2024
 <br>
 <br>
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
