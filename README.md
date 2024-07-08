@@ -96,7 +96,7 @@ NOTE: Links are for reference but could be sourced elsewhere. The brass inserts 
 * [M1 Screws](https://www.accu.co.uk/cheese-head-screws/6425-SFE-M1-2-A2): To lock modules together (4 per module).
 * [M3 5mm screws](https://www.accu.co.uk/flanged-button-screws/8592-SSBF-M3-5-A2): For connecting Payload Module holder to Thor Labs posts (3 total)
 * [M3 10mm screws](https://www.accu.co.uk/flanged-button-screws/8595-SSBF-M3-10-A2): For connecting Constructor Head to Thor Labs posts (3 total) and also for securing the Docking Module in its holder (2-4 depending on your preference)
-* [M3 20mm screws](https://www.accu.co.uk/flanged-button-screws/8600-SSBF-M3-20-A2): For tightening the payload module holer (one per payload module holder)
+* [M3 20mm screws](https://www.accu.co.uk/flanged-button-screws/8600-SSBF-M3-20-A2): For tightening the payload module holder (one per payload module holder)
 * [Thor labs posts](https://www.thorlabs.com/thorproduct.cfm?partnumber=MS3R/M): At least 3 for the constructor, more to hold the probes etc.
 
 &nbsp;
