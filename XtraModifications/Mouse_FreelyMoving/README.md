@@ -136,8 +136,55 @@ Simon Townsend - simon.townsend@ucl.ac.uk
 
 ### Sofware used
 Autodesk Inventor 2023 & 2024
+
+Certainly! Here is the content for the text file:
+
+
+## NP2_SingleProbeDockingWithHeadstage_FullyParameterised_Fin & NP2_Mounting_bigger
+
+### Function
+
+This part is a modified version of the `NP2_SingleProbeDockingWithHeadstage_FullyParameterised`. It includes an added fin to improve stability and facilitate the assembly of the docking and payload components for Neuropixels 2 probes.
+We have included files for a larger constructor specifically designed for Neuropixels 2.0 probes (single side). This bigger constructor makes it easier to handle and assemble the Payload and Docking Modules for NP2, simplifying the assembly process and improving ease of use.
+
+
+
+**Advantages:**
+
+- **Improved Stability:** The added fin provides additional support during insertion, reducing the risk of misalignment or damage to the probe.
+- **Easier Assembly:** The enlarged rail guide system simplifies the process of assembling the docking and payload, making it more user-friendly.
+
+**Usage in Our Lab:**
+
+We have successfully used this modified part to enhance stability and ease of assembly in our Neuropixels 2.0 experiments with freely-moving mice.
+
+### Images
+![NP2_SingleProbeDockingWithHeadstage_FullyParameterised_fin](https://github.com/user-attachments/assets/e81c0ca5-c2f1-4304-99b3-0e123f6e45f2)
+![NP2_newmounting_assembled](https://github.com/user-attachments/assets/eed09c39-9bfc-40d6-a4ce-30e54cc884ec)
+
+### Material (docker)
+
+- **Printing Method:** Stereolithography (SLA)
+- **Material Used:** Resin Rigid 4000
+- **Printed By:** In-house using a Formlabs Form 3 printer
+- **Weight:** Approximately 1.2 grams
+
+### Contact
+
+Design by Fabio Ricci (Iurilli Lab,Istituto Italiano di tecnologia)
+
+- **Email:** fabio.ricci@iit.it
+- **Website** https://iurillilab.github.io/
+
+
+### Software Used
+
+Autodesk Inventor 2024
+
+---
 <br>
 <br>
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
