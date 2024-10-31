@@ -137,8 +137,6 @@ Simon Townsend - simon.townsend@ucl.ac.uk
 ### Sofware used
 Autodesk Inventor 2023 & 2024
 
-Certainly! Here is the content for the text file:
-
 
 ## NP2_SingleProbeDockingWithHeadstage_FullyParameterised_Fin & NP2_Mounting_bigger
 
