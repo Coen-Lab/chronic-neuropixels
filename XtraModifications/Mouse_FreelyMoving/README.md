@@ -73,7 +73,7 @@ José Teixeira - jose.gomesteixeira@donders.ru.nl
 Solidworks Professional SP5 2022
 
 
-## NP2-Alpha_SingleProbeDockingWithHeadstage_FullyParameterised & NP2_SingleProbeMiniaturePayload
+## NP2_SingleProbeDockingWithHeadstage_FullyParameterised & NP2_SingleProbeMiniaturePayload
 
 ### Function
 
