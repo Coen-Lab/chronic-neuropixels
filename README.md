@@ -1,5 +1,5 @@
 # Apollo Implant Parts List and Instructions
-For more information on the chronic implant detailed in this repository, please refer to our [eLife paper](https://elifesciences.org/reviewed-preprints/98522).  
+For more information on the chronic implant detailed in this repository, please refer to our [eLife paper](https://elifesciences.org/articles/98522).  
 
 ## Issues and Discussions
 * NOTE: On 14/06/2024 the files were updated to allow for larger inter-probe distances (a commonly requested feature). We believe this works well, but we have not tested the updated parts ourselves. Please contact us if you have any issues. This will change the behaviour of the parts slightly for Inter-Probe distances between 2 & 4 mm (in short, the height of the payload walls now increases, rather than the lid being extended). If you want to continue using the older files, please use an earlier version of the repository.
