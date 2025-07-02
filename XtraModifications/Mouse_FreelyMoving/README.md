@@ -5,6 +5,7 @@ Each part will have a file associated with it, and where possible, this will be 
 - [NP1_HeadstageHolder_top & NP2-Alpha_HeadstageHolder_top](https://github.com/Coen-Lab/chronic-neuropixels/tree/main/XtraModifications/Mouse_FreelyMoving#np1_headstageholder_top--np2-alpha_headstageholder_top)
 - [NP2_SingleProbeMiniatureDockingWithHeadstageHolder & NP2_SingleProbeMiniaturePayload](https://github.com/Coen-Lab/chronic-neuropixels/tree/main/XtraModifications/Mouse_FreelyMoving#np2_singleprobeminiaturedockingwithheadstageholder--np2_singleprobeminiaturepayload)
 - [NP1_Payload_SingleProbe_Hollow & NP1_HeadstageHolder_DockingMount](#NP1_Payload_SingleProbe_Hollow-&-NP1_HeadstageHolder_DockingMount)
+- [NP2_SingleProbeDockingWithHeadstage_ANGLED](#NP2_SingleProbeDockingWithHeadstage_ANGLED)
 
 ## NP1_HeadstageHolder
 ### Function
@@ -179,7 +180,7 @@ Design by Fabio Ricci (Iurilli Lab,Istituto Italiano di tecnologia)
 
 Autodesk Inventor 2024
 
-## <a id="NP2_SingleProbeDockingWithHeadstage_ANGLED
+## NP2_SingleProbeDockingWithHeadstage_ANGLED
 
 ### Function
 1) modded the docking part to hide the flex-wire and hold the headstage in an angled surface. perforated to reduce weight.
