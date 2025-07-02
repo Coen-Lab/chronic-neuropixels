@@ -179,6 +179,35 @@ Design by Fabio Ricci (Iurilli Lab,Istituto Italiano di tecnologia)
 
 Autodesk Inventor 2024
 
+## <a id="NP2_SingleProbeDockingWithHeadstage_ANGLED
+
+### Function
+1) modded the docking part to hide the flex-wire and hold the headstage in an angled surface. perforated to reduce weight.
+2) added viewing ports (different files for front / side / back ports) to view the shanks during implantation.
+
+
+**Advantages:**
+
+- **neatly tucks the flex-wire aand headstage way from reach of the mouse, while keeping a low profile of the implant - removes the need for a headstage holder piece
+
+### Images
+
+### Material
+
+- **Printing Method:** Stereolithography (SLA)
+- **Material Used:** Surgical Guide Resin  - a biocompatible Photopolymer Resin, 50 micron layer line resolutions on Formlabs SLA printers, Form 2 and Form 3B.
+ can be disinfected with 70% Isopropyl Alcohol for 5 minutes , or autoclaved. 
+- **Printed By:** In-house workshop using a Formlabs Form 3 printer
+- **Weight:** Approximately 1.2 grams, (0.4 grams with transperent resin used in prototyping, but non autoclavable)
+
+### Contact
+Design by Shahaf Weiss (Max-Planck institute for brain-research, Frankfurt am Main, Germany)
+- **Email:** shahaf.weiss@brain.mpg.de
+
+### Software Used
+
+Autodesk Inventor Professional 2025
+
 ---
 <br>
 <br>
