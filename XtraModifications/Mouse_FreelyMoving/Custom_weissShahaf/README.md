@@ -214,7 +214,7 @@ This work is licensed under a
 **Advantages:**
 
 - neatly tucks the flex-wire aand headstage way from reach of the mouse, while keeping a low profile of the implant - removes the need for a headstage holder piece
-**important note: the side holes for the screws have been modified and threaded for metric screws, and now have a radius of 0.6 mm, for 1mm wide screws **
+**important note: the side holes for the screws have been modified and threaded for metric screws, and now have a radius of 0.6 mm, for "M1" 1mm wide screws **
 
 ### Images
 
