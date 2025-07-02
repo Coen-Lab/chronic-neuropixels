@@ -192,6 +192,10 @@ Autodesk Inventor 2024
 - **neatly tucks the flex-wire aand headstage way from reach of the mouse, while keeping a low profile of the implant - removes the need for a headstage holder piece
 
 ### Images
+![461432149-75324f65-eeb7-42da-b118-8c76df258c56](https://github.com/user-attachments/assets/44d0c9bb-1fa1-4855-aab4-123d85020df5)
+![461433459-d0ebba90-00d5-4965-93bd-71425331d72e](https://github.com/user-attachments/assets/b61686ec-4e00-43b9-8cb4-966d40adf75b)
+![461433880-5ac68c36-57cd-4f48-995c-30d8f6bc821c](https://github.com/user-attachments/assets/df087441-238e-4e99-8c23-fe3acea2d7e5)
+![461432268-7c579789-b243-47f7-a64b-3ee4ec9dda72](https://github.com/user-attachments/assets/1795a0fa-4d7b-46f8-94a8-76fad3fea3fe)
 
 ### Material
 
