@@ -174,6 +174,7 @@ We have successfully used this modified part to enhance stability and ease of as
   </tr>
 </table>
 
+<img width="1520" height="730" alt="NP2_newmounting_assembled" src="https://github.com/user-attachments/assets/52405c63-125f-463d-baef-206bdf19f2d1" />
 
 
 ### Material (docker)
