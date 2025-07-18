@@ -152,14 +152,30 @@ We have included files for a larger constructor specifically designed for Neurop
 
 - **Improved Stability:** The added fin provides additional support during insertion, reducing the risk of misalignment or damage to the probe.
 - **Easier Assembly:** The enlarged rail guide system simplifies the process of assembling the docking and payload, making it more user-friendly.
+- **Update to version v2** The recent version 17/07/25 (V2) has a reinforced handlebar and a pin that is compatible with the ADAL1 Ø1.25 mm Ceramic Mating Sleeve (a standard ceramic fiber optic mating sleeve, e.g. [Thorlabs ADAF1](https://www.thorlabs.com/thorproduct.cfm?partnumber=ADAF1)). This ceramic sleeve is installed with epoxy glue on the headstage circuit; even with a single point of contact, the circuit stays in place.
 
 **Usage in Our Lab:**
 
 We have successfully used this modified part to enhance stability and ease of assembly in our Neuropixels 2.0 experiments with freely-moving mice.
 
 ### Images
-![NP2_SingleProbeDockingWithHeadstage_FullyParameterised_fin](https://github.com/user-attachments/assets/e81c0ca5-c2f1-4304-99b3-0e123f6e45f2)
-![NP2_newmounting_assembled](https://github.com/user-attachments/assets/eed09c39-9bfc-40d6-a4ce-30e54cc884ec)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/e81c0ca5-c2f1-4304-99b3-0e123f6e45f2"
+           alt="NP2 Single Probe Docking With Headstage"
+           width="100%">
+    </td>
+    <td>
+      <img width="1000" height="900" alt="NP2_SingleProbeDockingWithHeadstage_FullyParameterised_fin v2" src="https://github.com/user-attachments/assets/0b2eee83-0755-4d18-bd0c-5a032c5dbddf"
+           alt="NP2 Single Probe Docking With Headstage"
+           width="100%">
+    </td>
+  </tr>
+</table>
+
+<img width="1520" height="730" alt="NP2_newmounting_assembled" src="https://github.com/user-attachments/assets/52405c63-125f-463d-baef-206bdf19f2d1" />
+
 
 ### Material (docker)
 
